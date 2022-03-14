@@ -1,0 +1,108 @@
+.swiper-pagination-bullet-active {
+  /* background-color:#fff !important; */
+}
+/* === 2018 === */
+/* Setting fade transition and default settings */
+body {
+    color: #000;
+    background-color: #f4f4f4;
+    transition: background-color 1s ease;
+  }
+  
+  /* panel styles */
+  .panel {
+    /* min-height: 100vh; */
+    /* min height incase content is higher than window height */
+    /* min-height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; */
+    /* outline: 10px solid hotpink; */
+    /* turn above on to see the edge of panels */
+  }
+  
+  /* colours */
+  .color-2018 {
+    /* background-color: #56378a; */
+    background-color: #583F64;
+  }
+  .color-2018-light {
+    background-color: #ece1ff;
+  }
+  .color-2019 {
+    background-color: #A78347;
+  }
+  .color-2019-light {
+    background-color: #fff7e9;
+  }
+  .color-2020{
+    background-color: #005488;
+  }
+  .color-2020-light{
+    background-color: #eef8ff;
+  }
+  /* .color-2018 {
+    background-color: #583F64;
+  } */
+  .color-blue {
+    background-color: #2F8FED;
+  }
+  .color-green {
+    background-color: #4DCF42;
+  }
+  .color-yellow {
+    background-color: #FAEB33;
+  }
+  .color-orange {
+    background-color: #F19031;
+  }
+  .color-red {
+    background-color: #F2293A;
+  }
+  .color-over{
+    background-color: #23232324;
+  }
+  .rights {
+    -webkit-transform: translate(20%, -40%);
+    -ms-transform: translate(20%, -40%);
+    transform: translate(20%, -40%);
+}
+  /* styling for demo, can ignore */
+  /* body {
+    text-align: center;
+    font-size: 120%;
+    line-height: 1.618;
+  }
+  h1, h2 {
+    letter-spacing: -0.05em;
+    line-height: 1.1;
+  } */
+/* === End 2018 === */
+
+@media only screen and (max-width: 575.98px) { 
+  /* === 2018 === */
+  .testimonial-group {
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
+  .testimonial-group > .row {
+    /* overflow-x: auto;
+    white-space: nowrap; */
+    /* width:1000px; */
+    width:280%;
+  }
+  .testimonial-group > .row > .col-4 {
+    display: inline-block;
+    float: none;
+  }
+  /* === End 2018 === */
+  /* === 2019 === */
+  .over-19 {
+    overflow-x: auto;
+  }
+  .over-19 > .row {
+    width:max-content;
+  }
+  /* === End 2019 === */
+  }

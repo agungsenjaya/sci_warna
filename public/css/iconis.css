@@ -1,0 +1,13 @@
+  .round-icon {
+    -webkit-mask-image: url('../img/round.svg');
+    -webkit-mask-size:contain; /* OR cover OR fixed values */
+    
+    -webkit-mask-position:center;
+    -webkit-mask-repeat:no-repeat;
+    
+    mask-image: url('../img/round.svg');
+    mask-size:contain; /* OR cover OR fixed values */
+    
+    mask-position:center;
+    mask-repeat:no-repeat;
+  }

@@ -1,0 +1,57 @@
+#moodvideo, #alternative {
+    width: 100%; 
+    height: 100vh;
+    object-fit: cover;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+/* #moodvideo {
+    position: absolute;
+    z-index: 4;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+    background-color: black;
+    
+    background-position: center center;
+    background-size: contain;
+    object-fit: cover;
+} */
+.z-hero{
+  z-index:999 !important;
+}
+.z-hero-2{
+  z-index:9999 !important;
+}
+.z-hero-3{
+  z-index:99999 !important;
+}
+#pp-nav li .active span, .pp-slidesNav .active span{
+  background-color:#D7052C !important;
+}
+#pp-nav span, .pp-slidesNav span{
+  height:15px !important;
+  width:15px !important;
+}
+.pp-tooltip.left{
+  left:30px !important;
+}
+#pp-nav li, .pp-slidesNav li{
+  margin:0 17px 17px 0 !important;
+}
+.pp-tooltip{
+  color: #fff !important;
+  top:-1px !important;
+  font-family: 'SamsungOne-400' !important;
+}
+.foot > .pp-tableCell {
+  display:block !important;
+}
+.grad-white{
+  background-image: linear-gradient(0deg,#ffffffab,#ffffff 50%);
+}

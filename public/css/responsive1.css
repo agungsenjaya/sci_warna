@@ -1,0 +1,118 @@
+@media only screen and (max-width: 575.98px) { 
+    body{
+      font-size:1rem;
+    }
+      .display-5{
+          font-size: 20vw !important;
+      }
+      .space-xl {
+          padding-top: 40px;
+          padding-bottom: 40px;
+      }
+      .mt-mobile{
+          margin-top: 40px;
+      }
+      .my-mobile{
+          margin-top: 30px;
+          margin-bottom: 30px;
+      }
+      .center-mobile{
+          text-align: center;
+      }
+      .w-mobile{
+          width: 100%;
+      }
+      .btn-icon{
+          font-size: 1.5rem;
+      }
+      .border-left-res{
+          border-top: 1px solid #dee2e6;
+          padding-top: 3rem;
+          border-left: 0;
+          padding-left: 15px;
+        }
+        .left-mobile{
+            text-align: left;
+        }
+        .bold-mobile{
+          font-family: 'Axiata Book Bold';
+        }
+        .text-mobile{
+          font-family: 'SamsungOne-400';
+        }
+        .sort-tabs{
+          /* font-family: 'Axiata Book Bold'; */
+        }
+        .px-sm-0{
+            padding-left: 0;
+            padding-right: 0;
+        }
+        .pad-des{
+          padding: 1.5rem !important;
+        }
+        .pad-mobile{
+          padding: 1.5rem !important;
+        }
+        .over-x-res{
+          width:max-content;
+          /* text-align:center;
+          margin:0 auto; */
+          /* padding-left: 20px;
+          padding-right: 20px; */
+        }
+        #map{
+          height: 50vh;
+        }
+        .rounded-bottom-left{
+          border-radius: 0;
+        }
+        .rounded-left{
+          border-radius: 0 !important;
+        }
+        .display-4{
+          font-size: 2rem;
+        }
+        .bg-white-mobile{
+          background-color: #ffffff !important;
+        }
+        .rd-image-mobile{
+          border-radius: 3em 0 3em 0;
+        }
+        .p-1-mobile{
+          padding: 1px !important;
+        }
+        #my_centered_buttons { 
+          display: flex; justify-content: center; 
+        }
+        .text-normali{
+          font-size: 1rem !important;
+        }
+        .text-smali{
+          font-size: 0.575rem !important;
+        }
+        .centered-sm {
+          position: absolute;
+          top: 40%;
+          left: 0;
+          right: 0;
+          }
+          .pos-absolute{
+            position: unset;
+          }
+          .m-0-mobile{
+            margin: 0 !important;
+          }
+          .logo-res{
+            width:200px;
+          }
+   }
+  @media only screen and  (max-width: 767.98px) {
+    .pos-absolute{
+      position: unset;
+    }
+    .logo-res{
+      width:200px;
+    }
+   }
+  @media only screen and  (max-width: 991.98px) { }
+  @media only screen and  (max-width: 1199.98px) { }

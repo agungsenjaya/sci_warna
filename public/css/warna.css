@@ -1,0 +1,141 @@
+.bg-car:before{
+    content: '';
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: url(../img/carbon.png);
+        background-image: url(../img/carbon.png);
+        background-position-x: initial;
+        background-position-y: initial;
+        background-size: initial;
+        background-repeat-x: initial;
+        background-repeat-y: initial;
+        background-attachment: initial;
+        background-origin: initial;
+        background-clip: initial;
+        background-color: initial;
+        opacity: .065;
+    }
+    /* .bg-car:after, .bg-car:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    } */
+    
+    .grad-cc{
+        position: absolute;
+        top: 0;
+        right: 0;
+        left: 0;
+        bottom: 0;
+    }
+    .bg-cc {
+        background:transparent;
+    }
+    .kin > .centered{
+        display:none;
+    }
+    .kin:hover >.bg-cc {
+        background:#D7052C;
+    }
+    .kin:hover > .centered {
+        display:block !important;
+    }
+    .to-bold:hover .jud {
+        /*  */
+    }
+    .to-bold:hover .jad {
+        /*  */
+    }
+    .mt-cc{
+        margin-top: 200px;
+    }
+    .cardis .nav-link{
+        color: #232323 !important;
+    }
+    .cardis li {
+        margin-right: 2px;
+    }
+    .cardis .nav-link.active, .nav-pills .show > .nav-link{
+        background:#fff;
+        color: #232323;
+    }
+    .hr-save {
+        border-top: 2px dashed rgba(0, 0, 0, 0.1);
+    }
+    .cardi{
+        height:70px;
+        width:100px;
+    }
+    .fly-image{
+        position: relative;
+        right: -40px;
+    }
+    .p-small{
+        padding:0.5px;
+      }
+      .grad-odd {
+        background-image: linear-gradient(45deg, #26b00 0, #fff 100%);
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        z-index: 1
+    }
+    .grad-odd:hover {
+        background-image: none
+    }
+    .over-x {
+        width: 100%;
+        overflow-x: auto
+    }
+    .over-text {
+        white-space: nowrap;
+        width: 100%;
+        overflow: hidden;
+        text-overflow: ellipsis
+    }
+    .bg-carbon {
+        position: relative;
+        -webkit-box-shadow: inset 0 1px 0 #fff;
+        -moz-box-shadow: inset 0 1px 0 #fff;
+        -o-box-shadow: inset 0 1px 0 #fff;
+        -ms-box-shadow: inset 0 1px 0 #fff;
+        box-shadow: inset 0 1px 0 #fff;
+        background-color: #ffffff;
+    }
+      .bg-carbon:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: url('../img/carbon.png');
+        opacity: .065;
+    }
+    .img {
+        max-width: 100%;
+        height: auto;
+    }
+    .item {
+        width: 150px;
+        min-height: 150px;
+        max-height: auto;
+    }
+    @media (max-width: 768px) {
+        .item {
+            width: 100%;
+            min-height: 100%;
+            max-height: auto;
+        }
+        .img {
+            width: 100%;
+        }
+    }

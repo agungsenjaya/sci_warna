@@ -1,0 +1,12 @@
+.nav-admin {
+    line-height: 2;
+}
+.nav-admin > a {
+    background-color: transparent;
+    color: #fff;
+    border-radius: 0 !important;
+}
+.nav-admin > a:hover, .nav-admin > a:focus {
+    background-color: #d7052b;
+    color: #fff;
+}

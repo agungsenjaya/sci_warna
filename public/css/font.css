@@ -1,0 +1,81 @@
+/* @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700|Roboto:300,400,700|Open+Sans|Oxygen:300,400,700');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+@font-face {
+    font-family: 'Classico-Regular';
+    src: url('../font/classico-webfont-normal.woff2');
+}
+@font-face {
+    font-family: 'Classico-Bold';
+    src: url('../font/classico-webfont-bold.woff2');
+}
+@font-face {
+    font-family: 'Optima-Regular';
+    src: url('../font/Optima-Regular.woff2');
+}
+@font-face {
+    font-family: 'Optima-Bold';
+    src: url('../font/Optima-Bold.woff2');
+}
+@font-face {
+    font-family: 'ProximaNova-Regular';
+    src: url('../font/ProximaNova-Regular.woff2');
+}
+@font-face {
+    font-family: 'ProximaNova-Light';
+    src: url('../font/ProximaNova-Light.woff2');
+}
+@font-face {
+    font-family: 'ProximaNova-Bold';
+    src: url('../font/ProximaNova-Bold.woff2');
+}
+@font-face {
+    font-family: 'ProximaNova-Black';
+    src: url('../font/ProximaNova-Black.woff2');
+}
+@font-face {
+    font-family: 'ProximaNova-Medium';
+    src: url('../font/ProximaNova-Medium.woff2');
+}
+@font-face {
+    font-family: 'interstate-regular';
+    src: url('../font/interstate-regular.woff2');
+}
+@font-face {
+    font-family: 'interstate-light';
+    src: url('../font/interstate-light.woff2');
+}
+@font-face {
+    font-family: 'interstate-bold';
+    src: url('../font/interstate-bold.woff2');
+}
+@font-face {
+    font-family: 'Inter-Regular';
+    src: url('../font/Inter-Regular.woff2');
+}
+@font-face {
+    font-family: 'Inter-Light';
+    src: url('../font/Inter-Light.woff2');
+}
+@font-face {
+    font-family: 'Inter-Medium';
+    src: url('../font/Inter-Medium.woff2');
+}
+@font-face {
+    font-family: 'Inter-Bold';
+    src: url('../font/Inter-Bold.woff2');
+}
+@font-face {
+    font-family: 'Tahoma';
+    src: url('../font/Tahoma.woff2');
+}
+@font-face {
+    font-family: 'Tahoma-Bold';
+    src: url('../font/Tahoma-Bold.woff2');
+}
+@font-face {
+    font-family: 'fonts-icomoon';
+    src: url('../font/fonts-icomoon.woff');
+}
